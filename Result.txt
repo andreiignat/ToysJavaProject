@@ -1,0 +1,10 @@
+attempt: 0  ID: 3, Name: doll, Frequency: 6
+attempt: 1  ID: 2, Name: robot, Frequency: 2
+attempt: 2  ID: 3, Name: doll, Frequency: 6
+attempt: 3  ID: 2, Name: robot, Frequency: 2
+attempt: 4  ID: 1, Name: constructor, Frequency: 2
+attempt: 5  ID: 3, Name: doll, Frequency: 6
+attempt: 6  ID: 3, Name: doll, Frequency: 6
+attempt: 7  ID: 2, Name: robot, Frequency: 2
+attempt: 8  ID: 3, Name: doll, Frequency: 6
+attempt: 9  ID: 3, Name: doll, Frequency: 6
